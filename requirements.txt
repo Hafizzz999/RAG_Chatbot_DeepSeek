@@ -1,0 +1,11 @@
+streamlit
+langchain
+langchain_ollama
+langchain_core
+langchain_community
+langchain_chroma
+pdfplumber
+python-docx  # For handling Word documents
+openpyxl     # For handling Excel files
+pandas       # For flexible data manipulation
+python-pptx  # For handling PowerPoint files
